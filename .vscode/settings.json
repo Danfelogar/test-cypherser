@@ -1,0 +1,14 @@
+{
+  "exportall.config.relExclusion": [
+    "/src/components/StandardWrapper.tsx"
+  ],
+  "exportall.config.folderListener": [
+    "/src/components",
+    "/src/utils",
+    "/src/screens/dashboard",
+    "/src/screens",
+    "/src/navigation",
+    "/src/screens/onboarding",
+    "/src/screens/dashboard/components"
+  ]
+}
